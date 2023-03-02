@@ -18,7 +18,7 @@ It was announced in March 2022 and released in April 2022.
 | MicroSD                        | Up to 1TB                                                                                 |
 | Battery                        | 5000mAh Li-Ion (non-removable), 25W fast charge                                           |
 | Dimensions                     | 159.9 x 75.1 x 8.4 mm (6.30 x 2.96 x 0.33 in)                                             |
-| Display                        | 6.5", 1080 x 2400 pixels, 20:9 ratio, Super AMOLED, 120Hz (~405 ppi density)              |
+| Display                        | 6.7", 1080 x 2400 pixels (20:9), Super AMOLED, 120Hz (~393 ppi density, 500 nits, HDR10)  |
 | Rear Camera 1                  | 108 MP, f/1.8, 0.8µm, PDAF, OIS                                                           |
 | Rear Camera 2                  | 12 MP, f/2.2, 123˚ (ultrawide)                                                            |
 | Rear Camera 3                  | 5 MP, f/2.4, (macro)                                                                      |
