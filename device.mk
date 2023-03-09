@@ -12,7 +12,7 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/emulated_storage.mk)
 PRODUCT_TARGET_VNDK_VERSION := 30
 
 # API
-PRODUCT_SHIPPING_API_LEVEL := 30
+PRODUCT_SHIPPING_API_LEVEL := 31
 
 # Dynamic partitions
 PRODUCT_USE_DYNAMIC_PARTITIONS := true
@@ -46,4 +46,4 @@ PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/recovery/root/vendor/lib/modules/1.1/sec_tclm_v2.ko:$(TARGET_COPY_OUT_RECOVERY)/root/vendor/lib/modules/1.1/sec_tclm_v2.ko \
     $(LOCAL_PATH)/recovery/root/vendor/lib/modules/1.1/sec_tsp_dumpkey.ko:$(TARGET_COPY_OUT_RECOVERY)/root/vendor/lib/modules/1.1/sec_tsp_dumpkey.ko \
     $(LOCAL_PATH)/recovery/root/vendor/lib/modules/1.1/sec_tsp_log.ko:$(TARGET_COPY_OUT_RECOVERY)/root/vendor/lib/modules/1.1/sec_tsp_log.ko \
-    $(LOCAL_PATH)/recovery/root/vendor/lib/modules/1.1/stm_ts.ko:$(TARGET_COPY_OUT_RECOVERY)/root/vendor/lib/modules/1.1/stm_ts.ko
+    $(LOCAL_PATH)/recovery/root/vendor/lib/modules/1.1/synaptics_ts.ko:$(TARGET_COPY_OUT_RECOVERY)/root/vendor/lib/modules/1.1/synaptics_ts.ko
