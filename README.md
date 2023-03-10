@@ -30,7 +30,7 @@ It was announced in March 2022 and released in April 2022.
 
 ## Kernel source 
 
-Available at https://github.com/BlackMesa123/android_kernel_samsung_sm7325
+Available at https://github.com/utkustnr/android_kernel_samsung_a73xq/tree/twrp-12.1
 
 ## How to build
 
